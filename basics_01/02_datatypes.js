@@ -10,6 +10,12 @@ console.log(m);
 console.log(typeof true);
 console.log(typeof "mangesh");
 
+let noun = "Amol";
+let id =12;
+
+
+console.log(typeof noun)
+
 
 
 
